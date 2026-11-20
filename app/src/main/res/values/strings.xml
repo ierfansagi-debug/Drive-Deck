@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DriveDeck</string>
+    <string name="nav_cockpit">Cockpit</string>
+    <string name="nav_map">Map</string>
+    <string name="nav_audio">Audio</string>
+    <string name="nav_cluster">Cluster</string>
+    <string name="nav_settings">Settings</string>
+    <string name="location_permission_needed">Enable Location for live GPS speed, vehicle map tracking, and local weather.</string>
+    <string name="grant_location">Enable GPS</string>
+    <string name="simulated_badge">SIMULATED</string>
+    <string name="demo_drive">Demo Drive</string>
+    <string name="load_audio_tracks">Add Audio</string>
+    <string name="no_tracks_loaded">No local audio tracks loaded yet</string>
+    <string name="no_tracks_hint">Tap Add Audio to pick MP3, M4A, or FLAC files from your device.</string>
+</resources>

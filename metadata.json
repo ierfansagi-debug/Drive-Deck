@@ -1,0 +1,6 @@
+{
+  "name": "DriveDeck",
+  "description": "Automotive headunit launcher with MapLibre navigation, live GPS speedometer, Open-Meteo weather, digital clock, FM preset tuner, and Media3 local audio controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
